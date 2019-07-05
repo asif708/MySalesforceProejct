@@ -1,3 +1,5 @@
 This is my first file ...!!!
 
 1] Change --> 1 *** My Change 1 made on remote is amazing change...!!!***<<<
+
+>>>change 2 made by user2
